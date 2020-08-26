@@ -34,11 +34,8 @@ The workshop is planned to take place online, where we will mix the presentation
 * Closing
 
 
-
-
-
-
-
+# If you are interested in other events from Software Center and partners
+* Lindholmen Software Development Day 2020: http://softwareday.lindholmen.se/en
 
 
 
