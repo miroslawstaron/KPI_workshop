@@ -1,4 +1,4 @@
-# KPI workshop
+# KPI workshop: _Successful Introduction of KPIs for Software Development_
 Welcome to the workshop about KPIs and metrics, organized within the Software Center commununity: www.software-center.se
 
 The goal of the workshop is to exchange good practices about KPIs and address topics around:
@@ -15,6 +15,23 @@ The participation is free of charge for all Software Center partners. However, f
 The workshop is planned to take place online, where we will mix the presentations from all involved companies and breakout sessions for deep dive into specific topics. 
 
 # Preliminary agenda
+* Introduction of participants and welcome
+
+* What to measure, what has proven useful 
+	- Accelerate KPIs
+	- Other approaches
+
+* Introduction strategies 
+	- Vocabulary
+	- Metrics teams and roles, organization around the metrics team
+
+* Soft factors
+	- Communication and cooperation: models, communication with stakeholders
+	- Communication roles and channels
+
+* DOs and DON’Ts
+
+* Closing
 
 
 
