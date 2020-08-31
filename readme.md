@@ -8,6 +8,10 @@ The goal of the workshop is to exchange good practices about KPIs and address to
 * How to make KPIs that drive the company's development in the right direction
 
 # Date, time, link to register
+Date: 2020-10-13 (!3th of October 2020)
+Time: 13.00 -- 17.00
+Place: MS Teams (link provided to registered users)
+
 The participation is free of charge for all Software Center partners. However, for the organizational reasons, please register by filling in this link: https://choodle.portal.chalmers.se/xgoTbdmjxpmftTkK (*)
 
 # Format
