@@ -8,7 +8,7 @@ The goal of the workshop is to exchange good practices about KPIs and address to
 * How to make KPIs that drive the company's development in the right direction
 
 # Date, time, link to register
-**Date**: 2020-10-13 (!3th of October 2020)
+**Date**: 2020-10-13 (13th of October 2020)
 
 **Time**: 13.00 -- 17.00
 
