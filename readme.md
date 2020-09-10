@@ -22,7 +22,7 @@ The workshop is planned to take place online, where we will mix the presentation
 
 # Preliminary agenda
 * 13.00 - 13.15 Introduction to the workshop
-* 13.15 - 14.00 What to measure, what has proven useful 
+* 13.15 - 14.00 What to measure 
 	- Accelerate KPIs
 	- Other approaches
 
