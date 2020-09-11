@@ -16,6 +16,8 @@ Place: MS Teams (link provided to registered users)
 
 The participation is free of charge for all Software Center partners. However, for the organizational reasons, please register by filling in this link: https://choodle.portal.chalmers.se/xgoTbdmjxpmftTkK (*)
 
+IMPORTANT: Please write you e-mail address when registering!
+
 # Format
 
 The workshop is planned to take place online, where we will mix the presentations from all involved companies and breakout sessions for deep dive into specific topics. 
