@@ -24,29 +24,29 @@ The workshop is planned to take place online, where we will mix the presentation
 
 # Preliminary agenda
 * 13.00 - 13.15 Introduction to the workshop
-* 13.15 - 14.00 What to measure 
-	- Accelerate KPIs
-	- Other approaches
+* 13:15 – 15:00 Present your “journey” – 20min each
+** Bosch
+** Ericsson
+** Axis
+** Grundfos
+** Siemens
+* 15:00 – 15:15 Break
+* 15:15 – 15:30 Soft factors (concrete topic to be proposed by Natalie)
+* 15:30 – 15:45 Selection of topic(s)
+* 15:45 – 16:30 Discussion (maybe in breakouts if > 8 participants)
+* 16:30 – 17:00 Wrap-up, next steps
 
-* 14.00 - 14.15 Break
-
-* 14.15 - 15.00 KPI/Measurement program introduction strategies 
-	- Vocabulary
-	- Metrics teams and roles, organization around the metrics team
-
-* 15.00 -15.15 Break
-
-* 15.15 - 16.00 Soft factors
-	- Communication and cooperation: models, communication with stakeholders
-	- Communication roles and channels
-
-* 16.00 - 16.10 Break
-
-* 16.10 - 16.30 Summary
-	- DOs and DON’Ts
-
-* Closing
-
+Scope of workshop
+* What to measure 
+** Accelerate KPIs
+** Other approaches
+* KPI/Measurement program introduction strategies 
+** Vocabulary
+** Metrics teams and roles, organization around the metrics team
+* Soft factors 
+** Communication and cooperation: models, communication with stakeholders
+** Communication roles and channels
+* DOs and DON’Ts
 
 # If you are interested in other events from Software Center and partners
 * Lindholmen Software Development Day 2020: http://softwareday.lindholmen.se/en
