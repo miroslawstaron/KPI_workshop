@@ -24,12 +24,7 @@ The workshop is planned to take place online, where we will mix the presentation
 
 # Preliminary agenda
 * 13.00 - 13.15 Introduction to the workshop
-* 13:15 – 15:00 Present your “journey” – 20min each
-** Bosch
-** Ericsson
-** Axis
-** Grundfos
-** Siemens
+* 13:15 – 15:00 Present your “journey” – 20min each: Bosch, Ericsson, Axis, Grundfos, Siemens
 * 15:00 – 15:15 Break
 * 15:15 – 15:30 Soft factors (concrete topic to be proposed by Natalie)
 * 15:30 – 15:45 Selection of topic(s)
@@ -37,15 +32,9 @@ The workshop is planned to take place online, where we will mix the presentation
 * 16:30 – 17:00 Wrap-up, next steps
 
 Scope of workshop
-* What to measure 
-** Accelerate KPIs
-** Other approaches
-* KPI/Measurement program introduction strategies 
-** Vocabulary
-** Metrics teams and roles, organization around the metrics team
-* Soft factors 
-** Communication and cooperation: models, communication with stakeholders
-** Communication roles and channels
+* What to measure: Accelerate KPIs, Other approaches
+* KPI/Measurement program introduction strategies: Vocabulary, Metrics teams and roles, organization around the metrics team
+* Soft factors, Communication and cooperation: models, communication with stakeholders, Communication roles and channels
 * DOs and DON’Ts
 
 # If you are interested in other events from Software Center and partners
