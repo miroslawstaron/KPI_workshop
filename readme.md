@@ -26,7 +26,7 @@ The workshop is planned to take place online, where we will mix the presentation
 * 13.00 - 13.15 Introduction to the workshop
 * 13:15 – 15:00 Present your “journey” – 20min each: Bosch, Ericsson, Axis, Grundfos, Siemens
 * 15:00 – 15:15 Break
-* 15:15 – 15:30 Soft factors (concrete topic to be proposed by Natalie)
+* 15:15 – 15:30 Soft factors - Communicating metrics
 * 15:30 – 15:45 Selection of topic(s)
 * 15:45 – 16:30 Discussion (maybe in breakouts if > 8 participants)
 * 16:30 – 17:00 Wrap-up, next steps
