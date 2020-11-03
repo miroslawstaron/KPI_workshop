@@ -10,7 +10,7 @@ Guiding questions:
 
 Result of seminar would be a short paper summarizing the key learnings
 
-## Schedule: 2020-11-11, starting 14.00
+## Schedule: 2020-11-10, starting 14.00
 14:00 Introduction </br>
 14:10 Presentation of experience with KPI </br>
 14:55 Group work </br>
